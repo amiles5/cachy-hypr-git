@@ -1,0 +1,9 @@
+#  add to ~/.config/wpaperd
+[default]
+duration = "2m"
+mode = "stretch"
+sorting = "random"
+
+[any]
+path = "/home/milesj/Pictures"
+#path = "/usr/share/wallpapers/cachyos-wallpapers/"
